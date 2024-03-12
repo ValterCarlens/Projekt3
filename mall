@@ -1,0 +1,19 @@
+1. skapa funktioner för sten,sax,påse
+
+2. skapar en logga för spelet med hjälp av ascii art
+
+3. gör en mall för hur spelet ska vara uppbyggt
+
+4. importerar funktionerna och ser till att allt fungerar
+
+5. använder getwch för input
+
+6. gör funktion för hand och ai
+
+7. lägger in data för wins,losses,draws mm
+
+8. gör alla if och elif för sten,sax,påse
+
+9. gör så man kan avsluta programmet via att klicka på "q"
+
+10. importerar färger
